@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Solar System",
-  description: "Realtime API demo",
+  description: "MyWonder demo",
   icons: {
     icon: "/icon.png",
   },
